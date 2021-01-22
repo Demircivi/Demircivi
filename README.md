@@ -1,6 +1,8 @@
 Hello, I'm **Doğu Emre DEMİRÇİVİ**. I develop **iOS and Backend Applications** and I like **reverse-engineering** applications. Also, **Swift**, **TypeScript/Node.js**, **Java**, and **C#** are my go-to languages.
 
-I've been working for **Solid-ICT** for over 3 years as a **Senior iOS & Backend Developer**. Also, I'm an **iOS Developer** consultant of **Turkcell**.
+Currently, I work for **Xelion** as a **Senior iOS Developer**.
+
+Formerly, I've worked for **Solid-ICT** for 3 years and 1 month as a **Senior iOS & Backend Developer**. Also, I was an **iOS Developer** consultant of **Turkcell**.
 
 I've been coding since I was **13 years old** and this depends on a hilarious story:
 
